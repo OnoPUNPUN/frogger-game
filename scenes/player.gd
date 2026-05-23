@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-var direction: Vector2 = Vector2(1, 1)
+var direction: Vector2
 var speed: int = 2.5
 
 
